@@ -1,2 +1,2 @@
-# Home1Sber
+# Homework1Zaytsevid
 DATA SBER HOMEWORK 
